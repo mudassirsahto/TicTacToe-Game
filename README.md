@@ -8,3 +8,6 @@ Step 1: Clone or download the project
 
 
 Step 2: Download and install NetBeans.
+
+
+Step 3: On NetBeans, click 'File' and select and select 'Open Project'. In the dialog window, navigate to the project source code folder and select, 'Open Project'.
