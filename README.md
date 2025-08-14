@@ -1,6 +1,9 @@
 Welcome to the first Mini Game build in Java
 This project is a console based program that runs on the terminal. It requires input from two players as it would normally when playing a tic tac toe game.
 
+<img width="1064" height="762" alt="image" src="https://github.com/user-attachments/assets/d44f5765-83ec-4f4a-9832-780eb30f1d2c" />
+
+
 To run this project, please follow the steps below:
 
 
